@@ -1,0 +1,9 @@
+bin/7z opt/p7zip-legacy/lib
+bin/7z.so opt/p7zip-legacy/lib
+bin/7zCon.sfx opt/p7zip-legacy/lib
+bin/7za opt/p7zip-legacy/lib
+debian/scripts/7z opt/p7zip-legacy/bin
+debian/scripts/7za opt/p7zip-legacy/bin
+bin/7zr opt/p7zip-legacy/lib
+debian/scripts/7zr opt/p7zip-legacy/bin
+debian/scripts/p7zip opt/p7zip-legacy/bin

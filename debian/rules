@@ -37,4 +37,4 @@ $(stampfile):
 override_dh_auto_install:
 
 override_dh_installdocs:
-	dh_installdocs --link-doc=p7zip -Xcopying.txt -XLicense.txt -Xlicense.htm -Xfm
+	dh_installdocs --link-doc=p7zip-legacy -Xcopying.txt -XLicense.txt -Xlicense.htm -Xfm

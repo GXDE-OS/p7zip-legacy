@@ -3,10 +3,10 @@
 # The script generates list of style.css locations pairs for dh_link program, to have
 # duplicated files converted into symlinks to make lintian happy.
 # Example output:
-#   usr/share/doc/p7zip-full/DOC/MANUAL/style.css usr/share/doc/p7zip-full/DOC/MANUAL/cmdline/style.css
+#   usr/share/doc/p7zip-legacy/DOC/MANUAL/style.css usr/share/doc/p7zip-legacy/DOC/MANUAL/cmdline/style.css
 
 set -e
-readonly pkg=p7zip-full
+readonly pkg=p7zip-legacy
 readonly file=style.css
 readonly maindir="usr/share/doc/$pkg/DOC/MANUAL"
 

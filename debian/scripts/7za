@@ -1,2 +1,2 @@
 #! /bin/sh
-exec /usr/lib/p7zip/7za "$@"
+exec /opt/p7zip-legacy/lib/7za "$@"

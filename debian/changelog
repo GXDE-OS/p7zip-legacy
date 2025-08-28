@@ -1,3 +1,9 @@
+p7zip (16.03gxde1) UNRELEASED; urgency=medium
+
+  * 修改版本号
+
+ -- gfdgd_xi <3025613752@qq.com>  Thu, 28 Aug 2025 23:08:11 +0800
+
 p7zip (16.02+dfsg-8deepin1) unstable; urgency=medium
 
   * fix  CVE-2023-52168 and CVE-2023-52169
