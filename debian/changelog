@@ -1,8 +1,9 @@
-p7zip (16.03gxde1) UNRELEASED; urgency=medium
+p7zip (16.02+dfsg-8+gxde-2025082824) UNRELEASED; urgency=medium
 
   * 修改版本号
+  * 修改包名为 p7zip-legacy
 
- -- gfdgd_xi <3025613752@qq.com>  Thu, 28 Aug 2025 23:08:11 +0800
+ -- gfdgd_xi <3025613752@qq.com>  Thu, 28 Aug 2025 23:17:32 +0800
 
 p7zip (16.02+dfsg-8deepin1) unstable; urgency=medium
 
